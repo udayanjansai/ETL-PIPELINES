@@ -1,0 +1,2 @@
+churn_percentage,avg_monthlycharges_by_contract,tenure_group_counts,internet_service_distribution
+25.6,"{'Month-to-month': 67.29, 'One year': 68.18, 'Two year': 63.3}","{'New': 320, 'Regular': 268, 'Champion': 209, 'Loyal': 203}","{'Fiber optic': 468, 'DSL': 329, 'No': 203}"
